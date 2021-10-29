@@ -1,7 +1,6 @@
 import pygame as pg
 
 
-pg.init()
 H, W = 500, 500
 FPS = 60
 jumpstep = 10
